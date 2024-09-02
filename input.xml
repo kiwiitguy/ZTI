@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
-  <Key>
-    <ProductKey>XXXXX-XXXXX-XXXXX-XXXXX-XXXXX</ProductKey>
-    <ProductKeyID>0000000000000</ProductKeyID>  
-    <ProductKeyState>0</ProductKeyState>
-  </Key>
+<OEMActivation>
+  <KeyIndex>1</KeyIndex>
+  <PartNumber></PartNumber>
+  <ProductKey></ProductKey>
+  <EditionID>Professional</EditionID>
+  <Description>OSDCloud Deployment</Description>
+  <EulaAccepted>true</EulaAccepted>
+  <MSDMTable>Yes</MSDMTable>
+</OEMActivation>
